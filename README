@@ -1,0 +1,6 @@
+Protected method can be accessed only in the classes and subclasses of same package. We cannot access a protected method from a different package. Its the rule of Java.
+
+I have commented some part of code to make it work fine by accessing a protected method from different class but of same package.
+When comments are removed it is made to access a protected method of different package which does not work causing an error.
+
+Hence couldn't access a protected method of a class in different package and no output for the given program.
